@@ -1,4 +1,4 @@
-# 🌴 My Personal Website - https://achyut-krishna.github.io/
+# 🌴 My Personal Website - https://achyut-krishna.github.io/achyutkrishna/
 
 This is my personal website - for now it's a simple landing page with my intro and projects. <br>
 I plan to make v2 with a full fledged website, fully functional with a blog and other cool stuff!
